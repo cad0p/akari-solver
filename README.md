@@ -1,6 +1,10 @@
 # akari-solver
 A Desktop app that let's you play and solves Akari (Light Up) games
 
+Below an example of a solved Akari game using this app: 
+
+![Akari board](images/akari-board.png) ![Puzzle solved!](images/puzzle-solved.png)
+
 ## Getting Started
 
 This project is written in C++, so it works in all major OSes.
